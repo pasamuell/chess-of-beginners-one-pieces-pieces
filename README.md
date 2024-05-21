@@ -1,0 +1,1 @@
+# chess-of-beginners-one-pieces-pieces
